@@ -1,4 +1,4 @@
-[200~#!/usr/bin/env bash
+#!/usr/bin/env bash
 # A script to configure my server to ssh without password
 Host ubuntu@54.167.186.166
 	HostName 54.167.186.166
